@@ -4,6 +4,7 @@
 
 - [RedisShake](https://github.com/tair-opensource/RedisShake): A tool for Redis data migration and data filtering.
 - [RedisFullCheck](https://github.com/alibaba/RedisFullCheck): A tool for comparing whether two redis have the same data.
+- [compatibility-test-suite-for-redis](https://github.com/tair-opensource/compatibility-test-suite-for-redis): A tool to detect which version of Redis your Redis-Like database is compatible with.
 
 ## :sparkle: Tair Stack
 

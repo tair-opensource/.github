@@ -4,6 +4,7 @@
 
 - [RedisShake](https://github.com/tair-opensource/RedisShake): Redis 数据迁移和数据过滤的同步工具。
 - [RedisFullCheck](https://github.com/alibaba/RedisFullCheck): 对比不同 Redis 之间数据是否一致，支持单机和集群模式。
+- [compatibility-test-suite-for-redis](https://github.com/tair-opensource/compatibility-test-suite-for-redis): 测试 Redis-Like 系统和开源 Redis 的版本兼容性工具。
 
 ## :sparkle: Tair Stack
 
