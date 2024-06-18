@@ -14,6 +14,7 @@
 |[TairString](https://github.com/tair-opensource/TairString)|Supports the String structure of the version, which can implement distributed locks/optimistic locks.|
 |[TairZset](https://github.com/tair-opensource/TairZset)|Supports up to 256-dimensional double sorting, enabling multi-dimensional leaderboards.|
 |[TairGis](https://github.com/tair-opensource/TairGis)|It supports the judgment of intersecting, contained and included relations of points, lines and polygons.|
+|[TairDoc](https://github.com/tair-opensource/TairDoc)|It supports JSON data storage and querying.|
 
 ## :link: Tair Clients
 

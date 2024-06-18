@@ -14,6 +14,7 @@
 |[TairString](https://github.com/tair-opensource/TairString)|支持版本的 String 结构，可以实现分布式锁/乐观锁。|
 |[TairZset](https://github.com/tair-opensource/TairZset)|支持最多 256 维的 double 排序，可以实现多维排行榜。|
 |[TairGis](https://github.com/tair-opensource/TairGis)|支持点、线、面的相交、包含、被包含的关系判断。|
+|[TairDoc](https://github.com/tair-opensource/TairDoc)|支持 JSON 数据的存储和查询的数据结构|
 
 ## :link: Tair 客户端
 
