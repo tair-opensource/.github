@@ -5,6 +5,7 @@
 - [RedisShake](https://github.com/tair-opensource/RedisShake): A tool for Redis data migration and data filtering.
 - [resp-compatibility](https://github.com/tair-opensource/resp-compatibility): A tool to detect which version of Redis your Redis-Like database is compatible with.
 - [resp-benchmark](https://github.com/tair-opensource/resp-benchmark): A benchmark tool for testing databases that support the RESP protocol.
+- [tair-pulse](https://github.com/tair-opensource/tair-tools/tree/main/tair-pulse): A tool for visualizing the latency and availability of Tair/Redis instances.
 - [redis-diagnose-tool](https://github.com/tair-opensource/tair-tools/tree/main/redis-diagnose-tool):	A tool for diagnosing redis/tair client connection errors, and supports detecting the response rtt of the DB Server.
 - [RedisFullCheck](https://github.com/alibaba/RedisFullCheck): A tool for comparing whether two redis have the same data.
 
