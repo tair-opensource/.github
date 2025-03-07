@@ -5,7 +5,7 @@
 - [RedisShake](https://github.com/tair-opensource/RedisShake): Redis 数据迁移和数据过滤的同步工具。
 - [resp-compatibility](https://github.com/tair-opensource/resp-compatibility): 测试 Redis-like 系统和开源 Redis 的版本兼容性工具。
 - [resp-benchmark](https://github.com/tair-opensource/resp-benchmark): 用于 Redis-like 数据库的性能测试工具
-- [tair-pulse](./tair-pulse): 这是一个用于可视化 Tair/Redis 实例的延迟和可用性的工具
+- [tair-pulse](https://github.com/tair-opensource/tair-tools/tree/main/tair-pulse): 这是一个用于可视化 Tair/Redis 实例的延迟和可用性的工具
 - [redis-diagnose-tool](https://github.com/tair-opensource/tair-tools/tree/main/redis-diagnose-tool):	一个诊断redis/ fair客户端连接错误的工具，支持检测DB服务器的响应rtt
 - [RedisFullCheck](https://github.com/alibaba/RedisFullCheck): 对比不同 Redis 之间数据是否一致，支持单机和集群模式。
 
